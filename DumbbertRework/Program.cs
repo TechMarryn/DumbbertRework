@@ -1,5 +1,4 @@
-﻿namespace DumbbertRework
-{
-    Game game = new();
-    game.Run();
-}
+﻿using DumbbertRework;
+
+Game game = new();
+game.Run();
